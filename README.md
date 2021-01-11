@@ -4,7 +4,7 @@ An end to end regression problem done on a real world data. The data is download
 
 ## How to run
 - Clone the repo using `git clone https://github.com/mohdsaqibhbi/End_to_End_Regression.git`.
-- Go to this directory using `cd End_to_End_Regression'
+- Go to this directory using `cd End_to_End_Regression`
 - Create virtual environment.
 - Install dependencies using `pip install -r requirements.txt`.
 - Run everything step by step.
